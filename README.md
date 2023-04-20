@@ -12,4 +12,4 @@ My name is Serhii. I'm a Software Test Engineer from Ukraine.
 
 🐍 API auto tests repository for Restful-Booker API: https://github.com/sm-serhii/restfulBookerAPITests
 
-🐍 Performance API tests repository for Petstore API: https://github.com/sm-serhii/petStoreAPITests
+🐍 Performance API auto tests repository for Petstore API: https://github.com/sm-serhii/petStoreAPITests

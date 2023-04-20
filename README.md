@@ -6,7 +6,7 @@ My name is Serhii. I'm a Software Test Engineer from Ukraine.
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,git,github,docker,jenkins,vscode,postman,powershell,linux&theme=light)](https://skillicons.dev)
 
-**My Test Repositories:**
+**My test repositories:**
 
 🐍 UI auto tests repository for SauceDemo website: https://github.com/sm-serhii/sauceDemoUITests
 
